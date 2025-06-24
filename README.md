@@ -53,6 +53,11 @@ Corpo da requisição:
 
 Consulte a documentação oficial do Venom-bot: https://github.com/orkestral/venom
 
+🧠 Observações
+O Venom Bot abrirá uma sessão no navegador em modo headless.
+É necessário escanear o QR Code no primeiro uso para autenticação da conta.
+Certifique-se de que o número de destino esteja ativo e liberado para receber mensagens.
+
 
 
 
